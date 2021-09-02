@@ -1,13 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.  
-# Any code taken from other sources is referenced within my code solution.
-
-# Name: E.D.D. Fernando
-
-# Student UoW ID: w1839054
-# Student IIT ID: 20200473
-  
-# Date: 24th April 2021
-
 def DATAP(P):
     if(P not in [0,20,40,60,80,100,120]):
         return 'Out of range'
