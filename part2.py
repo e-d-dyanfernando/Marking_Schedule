@@ -1,13 +1,3 @@
-# I declare that my work contains no examples of misconduct, such as plagiarism, or collusion.  
-# Any code taken from other sources is referenced within my code solution.
-
-# Name: E.D.D. Fernando
-
-# Student UoW ID: w1839054
-# Student IIT ID: 20200473
-  
-# Date: 20th April 2021
-
 def DATAP(P):
     if(P not in [0,20,40,60,80,100,120]):
         return 'Out of range'
@@ -55,4 +45,3 @@ while True:
         print('Progression Outcome = Do not Progress – module retriever')
     elif P==40 and F==80 or P==20 and F>70 or P==0 and F>70:
         print('Progression Outcome = Exclude')
-        
